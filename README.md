@@ -7,8 +7,6 @@
 
 - 📝 I regularly write articles on [https://alfreddgco.github.io/blogs](https://alfreddgco.github.io/blogs) (spanish only)
 
-- 💬 Ask me about **nextjs, react native, robotics**
-
 - 📫 How to reach me **alfredd.gco@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
