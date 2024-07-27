@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://alfreddgco.github.io/blogs](https://alfreddgco.github.io/blogs) (spanish only)
 
-- 📫 How to reach me **alfredd.gco@gmail.com**
+- 📫 How to reach me **alfredo@fuzzyflags.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
