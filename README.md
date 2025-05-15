@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Orbit](https://orbit.mit.edu)
 
-- 🌱 I’m currently learning **Binary exploitation, ML (RL)**
+- 🌱 I’m currently learning **zig and physics simulations**
 
 - 📝 I regularly write articles on [https://alfreddgco.github.io/blogs](https://alfreddgco.github.io/blogs) (spanish only)
 
