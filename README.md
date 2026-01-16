@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [Orbit](https://orbit.mit.edu)
 
+- 📝 I write articles on [https://alfredo.engineer](https://alfredo.engineer)
+
 - 🌱 I’m currently learning **zig and physics simulations**
 
-- 📝 I regularly write articles on [https://alfreddgco.github.io/blogs](https://alfreddgco.github.io/blogs) (spanish only)
-
-- 📫 How to reach me **alfredo@fuzzyflags.com**
+- 📫 How to reach me **alfredo@fzf.dev**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
